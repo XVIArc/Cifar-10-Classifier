@@ -18,5 +18,11 @@ y_test.npy
 
 Notebook 位置如下：
 
-notebooks/COMP5318-assignment2-template-notebook.ipynb
+notebooks/CIFAR-10.ipynb
 该版本包含了我在该作业中的全部原始代码实现。
+
+*假设你想直接用Jupyter跑，记得把notebook和数据放成这样的结构:
+--Assignment2Data(内包含数据文件)
+--CIFAR-10.ipynb
+
+就行了。
