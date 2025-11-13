@@ -1,0 +1,34 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (do not upload large datasets)
+data/
+Assignment2Data/
+*.zip
+*.tar
+*.tar.gz
+*.npz
+
+# Results (exclude heavy model files)
+results/*.pth
+results/*.pt
+results/*.ckpt
+results/*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
